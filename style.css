@@ -1,0 +1,23 @@
+body {
+    background-color: #FFBB5C;
+}
+
+td {
+  font-family: Helvetica;  
+} 
+
+tr {
+    font-family: Helvetica;
+}
+
+table {
+    background-color: #D6CC99;
+}
+
+.edit {
+    background-color: #176B87;
+}
+
+.delete {
+    background-color: #A73121;
+}
